@@ -21,6 +21,8 @@ Rules for the Game:
 
 6- If the player doesn't make any mistake, the game goes on, so it is an endless game!
 
+
 Go ahead and test your Memory :)
+
 All the Best!!!
 
